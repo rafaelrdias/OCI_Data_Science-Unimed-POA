@@ -1,2 +1,2 @@
-# OCI_Data_Science-Unimed-POA
-Data Science - Unimed POA - Fast Track
+# OCI_Data_Science-Intermedica
+Repositório para os participantes do Worshop na Intermedica
